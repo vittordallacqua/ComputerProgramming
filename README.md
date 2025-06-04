@@ -1,4 +1,4 @@
-# 💻 ComputerProgramming
+# 💻 Computer Programming Class
 
 A collection of C programming exercises developed during the *Computer Programming* course (course code: 1929877). The repository focuses on fundamental programming concepts, including recursion, pointers, dynamic memory allocation, file handling, sorting, and searching.
 
