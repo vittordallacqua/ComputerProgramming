@@ -2,8 +2,6 @@
 
 A collection of C programming exercises developed during the *Computer Programming* course (course code: 1929877). The repository focuses on fundamental programming concepts, including recursion, pointers, dynamic memory allocation, file handling, sorting, and searching.
 
----
-
 ## 📚 Project Overview
 
 **Purpose:**  
@@ -14,14 +12,9 @@ To reinforce foundational programming skills in C through practical exercises th
 - **Paradigm:** Procedural Programming
 - **Platform:** Cross-platform (Linux, macOS, Windows)
 
----
-
 ## 🗂️ Directory Structure
 
-
 *Note: The actual file names may vary. Please refer to the repository for the exact file names and contents.*
-
----
 
 ## 🧠 Key Topics Covered
 
@@ -42,8 +35,6 @@ To reinforce foundational programming skills in C through practical exercises th
 
 - **Sorting Algorithms:**  
   Implementations of common sorting algorithms such as bubble sort, insertion sort, and selection sort.
-
----
 
 ## 🧪 How to Compile and Run
 
@@ -71,8 +62,6 @@ Run the compiled program using:
 
 ```Note: On Windows, use program_name.exe instead of ./program_name.```
 
----
-
 ## 📌 Educational Objectives
 
 - Enhance Problem-Solving Skills:
@@ -83,8 +72,6 @@ Gain a solid understanding of fundamental concepts in C programming.
 
 - Prepare for Advanced Topics:
 Build a strong foundation to tackle more advanced subjects in computer science.
-
----
 
 ## 📎 License
 This project is licensed under the MIT License.
