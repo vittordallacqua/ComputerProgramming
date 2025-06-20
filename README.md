@@ -1,22 +1,14 @@
-# 💻 Computer Programming Class
+# Computer Programming Class
+
+![C](https://img.shields.io/badge/Built_with-C-blue)
 
 A collection of C programming exercises developed during the *Computer Programming* course (course code: 1929877). The repository focuses on fundamental programming concepts, including recursion, pointers, dynamic memory allocation, file handling, sorting, and searching.
 
-## 📚 Project Overview
-
-**Purpose:**  
-To reinforce foundational programming skills in C through practical exercises that cover essential topics in computer programming.
-
-**Technologies Used:**
-- **Language:** C
-- **Paradigm:** Procedural Programming
-- **Platform:** Cross-platform (Linux, macOS, Windows)
-
-## 🗂️ Directory Structure
+## Directory Structure
 
 *Note: The actual file names may vary. Please refer to the repository for the exact file names and contents.*
 
-## 🧠 Key Topics Covered
+## Key Topics Covered
 
 - **Arrays:**  
   Exercises involving array manipulation, searching, and basic operations.
@@ -36,11 +28,7 @@ To reinforce foundational programming skills in C through practical exercises th
 - **Sorting Algorithms:**  
   Implementations of common sorting algorithms such as bubble sort, insertion sort, and selection sort.
 
-## 🧪 How to Compile and Run
-
-### Prerequisites
-
-- A C compiler (e.g., `gcc`)
+## How to Compile and Run
 
 ### Compilation
 
@@ -62,7 +50,7 @@ Run the compiled program using:
 
 ```Note: On Windows, use program_name.exe instead of ./program_name.```
 
-## 📌 Educational Objectives
+## Educational Objectives
 
 - Enhance Problem-Solving Skills:
 Develop logical thinking by solving various programming problems.
@@ -73,5 +61,3 @@ Gain a solid understanding of fundamental concepts in C programming.
 - Prepare for Advanced Topics:
 Build a strong foundation to tackle more advanced subjects in computer science.
 
-## 📎 License
-This project is licensed under the MIT License.
