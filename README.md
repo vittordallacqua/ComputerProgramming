@@ -7,13 +7,13 @@ pointers, dynamic memory allocation, file handling, sorting,
 and searching.
 
 How to run (using MinGW):
-  ```
+  ```bash
   > gcc -o program_name source_file.c
   ```
 
 Replace `program_name` with your desired executable name and 
 `source_file.c` with the name of the C source file.
- ```
+ ```bash
  > program_name.exe
  ```
 This project is licensed under the MIT License.
