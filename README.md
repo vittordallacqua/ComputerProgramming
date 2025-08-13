@@ -16,4 +16,3 @@ Replace `program_name` with your desired executable name and
  ```bash
  > program_name.exe
  ```
-This project is licensed under the MIT License.
